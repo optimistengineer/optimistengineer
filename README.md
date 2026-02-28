@@ -22,9 +22,9 @@ Software Engineer surfing the AI wave. IIT grad.
 - **[cpjudge](https://github.com/optimistengineer/cpjudge)** — Competitive programming judge. `JavaScript`
 - **[web-chat-app](https://github.com/dharmveerjakhar/web-chat-app)** — Real-time chat application. `JavaScript`
 
-### AI Workflow
+## AI Workflow
 
-- **Claude Code with Opus
+- **Claude Code** with Opus
 
 ---
 
